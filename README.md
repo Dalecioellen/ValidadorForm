@@ -1,2 +1,3 @@
 # ValidadorForm
-![Form](https://user-images.githubusercontent.com/57638004/129783403-aaa9d345-fda8-47a6-ab36-3d01a10410aa.png)
+![Form](https://user-images.githubusercontent.com/57638004/129783906-f16c6736-1ef5-4a2f-81f6-fea03674c7ca.png)." 
+
