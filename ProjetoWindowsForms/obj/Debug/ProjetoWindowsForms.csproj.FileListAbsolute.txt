@@ -1,0 +1,14 @@
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\bin\Debug\ProjetoWindowsForms.exe.config
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\bin\Debug\ProjetoWindowsForms.exe
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\bin\Debug\ProjetoWindowsForms.pdb
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.csprojAssemblyReference.cache
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.Properties.Resources.resources
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.csproj.GenerateResource.cache
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.exe
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.pdb
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.Frm_DemostracaoKey.resources
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.Frm_Mascara.resources
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\dalec\source\repos\ProjetoWindowsForms\ProjetoWindowsForms\obj\Debug\ProjetoWindowsForms.Frm_Principal.resources
